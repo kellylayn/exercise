@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.ma-vis {
+  width: 100%;
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+h1 {
+  padding: 20px 0 0 20px;
+  color: #a6a6a6;
+}
+
+main {
+  width: 840px;
+  margin: 0 auto;
+}
+
+.h2 {
+  font-size: 1.5;
+}
+
+.wc {
+  padding-top: 50px;
+  padding-bottom: 30px;
+  text-align: left;
+  border-bottom: solid #a6a6a6;
+}
+.wc-logo {
+  height: 40px;
+  background-image: url(img/wc-logo.png);
+  background-repeat: no-repeat;
+}
+
+.wcp {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: left;
+  border-bottom: solid #a6a6a6;
+}
+.wcp-logo {
+  height: 40px;
+  background-image: url(img/wcp-logo.png);
+  background-repeat: no-repeat;
+}
+
+.wcw {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: left;
+  border-bottom: solid #a6a6a6;
+}
+.wcw-logo {
+  height: 30px;
+  background-image: url(img/wcw-logo.png);
+  background-repeat: no-repeat;
+}
+
+.wcc {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: left;
+  border-bottom: solid #a6a6a6;
+}
+.wcc-logo {
+  height: 30px;
+  background-image: url(img/wcc-logo.png);
+  background-repeat: no-repeat;
+}
